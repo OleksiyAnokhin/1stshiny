@@ -1,0 +1,11 @@
+name: XiaoweiChengShiny
+title: XiaoweiChengShiny
+account: xiaoweicheng666
+server: shinyapps.io
+appId: 197874
+bundleId: 908050
+url: https://xiaoweicheng666.shinyapps.io/XiaoweiChengShiny/
+when: 1500411929.61859
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|www/.DS_Store
